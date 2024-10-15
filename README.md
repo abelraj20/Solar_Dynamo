@@ -13,6 +13,6 @@ Program s3 - Streamline plot of Plasma Flow Velocity against Magnetic Field
 
 Program s4 - Quiver plot with magnitude of vectors
 
-Program s5 - Visualisation for different values of initial conditions
+Program s5 - Visualisation for different values of initial conditions using fourth order of Runge-Kutta (RK4)
 
-Program s6 - Visualisation for different quantities of parameters
+Program s6 - Visualisation for different quantities of parameters (RK4)
