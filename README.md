@@ -11,8 +11,8 @@ Program s2 - Plot of B-nullcline and v-nullcline
 
 Program s3 - Streamline plot of Plasma Flow Velocity against Magnetic Field
 
-Progran s4 - Quiver plot with magnitude of vectors
+Program s4 - Quiver plot with magnitude of vectors
 
 Program s5 - Visualisation for different values of initial conditions
 
-Progran s6 - Visualisation for different quantities of parameters
+Program s6 - Visualisation for different quantities of parameters
